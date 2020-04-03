@@ -1,0 +1,12 @@
+h1 {
+  color: blue; }
+
+body {
+  background-color: black;
+  background-image: url(2c8edd9416f90d5cfe518e1c1a7e89fa.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100vh; }
+  body h2 {
+    color: red; }
+

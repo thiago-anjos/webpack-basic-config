@@ -1,0 +1,15 @@
+$color: gray;
+
+body{
+  background-color: $color;
+  background-image: url(../images/logo.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100vh;
+
+  h2{
+    color: black;
+  }
+
+}
+
